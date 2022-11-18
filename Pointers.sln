@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TransferParameters", "Trans
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "References", "References\References.vcxproj", "{7C6AD63E-4AA6-490B-B643-23B2040BFC04}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Split", "Split\Split.vcxproj", "{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{7C6AD63E-4AA6-490B-B643-23B2040BFC04}.Release|x64.Build.0 = Release|x64
 		{7C6AD63E-4AA6-490B-B643-23B2040BFC04}.Release|x86.ActiveCfg = Release|Win32
 		{7C6AD63E-4AA6-490B-B643-23B2040BFC04}.Release|x86.Build.0 = Release|Win32
+		{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}.Debug|x64.ActiveCfg = Debug|x64
+		{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}.Debug|x64.Build.0 = Debug|x64
+		{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}.Debug|x86.Build.0 = Debug|Win32
+		{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}.Release|x64.ActiveCfg = Release|x64
+		{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}.Release|x64.Build.0 = Release|x64
+		{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}.Release|x86.ActiveCfg = Release|Win32
+		{33FED4F0-1B5B-4A14-958A-E2BB0A105D9A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
